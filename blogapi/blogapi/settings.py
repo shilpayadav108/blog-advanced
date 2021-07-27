@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'accounts',
     'posts',
+    # 'comments',
     'rest_framework',
     'django_rest_passwordreset',
     'knox',
